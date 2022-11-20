@@ -1,0 +1,21 @@
+* {
+    background-color: #dce5eb;    
+}
+
+.main-header {
+    background-color: #113a5c;
+    color: #fff;
+    font-family: Vollkorn, Helvetica, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 550px;    
+}
+
+.description {
+    text-align: center;
+}
